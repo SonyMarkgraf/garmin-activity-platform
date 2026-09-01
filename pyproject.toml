@@ -1,0 +1,18 @@
+[tool.uv.workspace]
+members = [
+    "ingestion",
+    "shared",
+    "ingestion",
+    "shared",
+]
+
+[project]
+name = "garmin-activity-platform"
+version = "0.1.0"
+description = "Garmin project for data engineering"
+readme = "README.md"
+authors = [
+    { name = "Stanislav M", email = "stanislav.herdt@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
