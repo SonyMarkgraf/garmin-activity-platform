@@ -25,7 +25,7 @@ dev = [
 
 [tool.ruff.lint]
 select = [
-    "E", "F", "I", "B", "UP"
+    "E", "F", "I", "B", "UP",
     "PD",
     NPY",
 ]
