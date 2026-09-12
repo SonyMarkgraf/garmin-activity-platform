@@ -27,5 +27,5 @@ dev = [
 select = [
     "E", "F", "I", "B", "UP",
     "PD",
-    NPY",
+    "NPY",
 ]
